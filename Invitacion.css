@@ -164,7 +164,7 @@ div.foto
 div.invitar
 {
 	width: 46.16%;
-	height: 400px;
+	height: 450px;
 	margin-top: 10px;
 	margin-left: auto;
 	margin-right: auto;
@@ -621,4 +621,5 @@ div#Sobre
 {
 	font-family: "Aston Script";
 	src: url("AstonScript.ttf");
+
 }
