@@ -134,8 +134,8 @@ hr.arriba
 		font-size: 40px;
 		text-align: center;
 		margin-top: 10px;
-		margin-left: 350px;
-		margin-right: 350px;
+		margin-left: 15%;
+		margin-right: 15%;
 		margin-bottom: 10px;
 		opacity: 0.8;
 	}
@@ -621,4 +621,5 @@ div#Sobre
 {
 	font-family: "Aston Script";
 	src: url("AstonScript.ttf");
+
 }
